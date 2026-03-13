@@ -8,10 +8,10 @@ namespace RPG_Combat___Inventory_System
 {
     internal class Warrior : Character
     {
-        public override void SetSpecialAttack()
+        public override decimal SetSpecialAttack()
         {
             Console.WriteLine("Warrior Special Attack: Sword Slash ");
-            AttackPower *= 5;
+            return AttackPower * 5;
         }
         public Warrior(String Name, decimal Health, decimal AttackPower, decimal Defense) 
             : base(Name, Health, AttackPower, Defense)

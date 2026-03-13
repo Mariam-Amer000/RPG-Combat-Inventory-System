@@ -1,0 +1,15 @@
+E:\programming\C#\C# lang\RPG Combat & Inventory System\bin\Debug\net9.0\RPG Combat & Inventory System.exe
+E:\programming\C#\C# lang\RPG Combat & Inventory System\bin\Debug\net9.0\RPG Combat & Inventory System.deps.json
+E:\programming\C#\C# lang\RPG Combat & Inventory System\bin\Debug\net9.0\RPG Combat & Inventory System.runtimeconfig.json
+E:\programming\C#\C# lang\RPG Combat & Inventory System\bin\Debug\net9.0\RPG Combat & Inventory System.dll
+E:\programming\C#\C# lang\RPG Combat & Inventory System\bin\Debug\net9.0\RPG Combat & Inventory System.pdb
+E:\programming\C#\C# lang\RPG Combat & Inventory System\obj\Debug\net9.0\RPG Combat & Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\C#\C# lang\RPG Combat & Inventory System\obj\Debug\net9.0\RPG Combat & Inventory System.AssemblyInfoInputs.cache
+E:\programming\C#\C# lang\RPG Combat & Inventory System\obj\Debug\net9.0\RPG Combat & Inventory System.AssemblyInfo.cs
+E:\programming\C#\C# lang\RPG Combat & Inventory System\obj\Debug\net9.0\RPG Combat & Inventory System.csproj.CoreCompileInputs.cache
+E:\programming\C#\C# lang\RPG Combat & Inventory System\obj\Debug\net9.0\RPG Combat & Inventory System.sourcelink.json
+E:\programming\C#\C# lang\RPG Combat & Inventory System\obj\Debug\net9.0\RPG Combat & Inventory System.dll
+E:\programming\C#\C# lang\RPG Combat & Inventory System\obj\Debug\net9.0\refint\RPG Combat & Inventory System.dll
+E:\programming\C#\C# lang\RPG Combat & Inventory System\obj\Debug\net9.0\RPG Combat & Inventory System.pdb
+E:\programming\C#\C# lang\RPG Combat & Inventory System\obj\Debug\net9.0\RPG Combat & Inventory System.genruntimeconfig.cache
+E:\programming\C#\C# lang\RPG Combat & Inventory System\obj\Debug\net9.0\ref\RPG Combat & Inventory System.dll

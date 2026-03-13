@@ -44,7 +44,7 @@ namespace RPG_Combat___Inventory_System
             }
         }
 
-        public abstract void SetSpecialAttack();
+        public abstract decimal SetSpecialAttack();
 
 
        public Character()

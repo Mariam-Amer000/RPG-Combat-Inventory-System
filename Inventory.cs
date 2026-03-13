@@ -38,7 +38,6 @@ namespace RPG_Combat___Inventory_System
 
             for (int i = 0; i < _items.Count; i++)
             {
-                // This uses the index so the player knows what number to type!
                 Console.WriteLine($"{i}. {_items[i].GetType().Name}");
             }
         }

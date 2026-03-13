@@ -9,6 +9,3 @@
         }
     }
 }
- /*
-  * i think each type of characters should have constant Attack Power and the attack power affected by the items
-  */

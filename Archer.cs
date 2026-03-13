@@ -8,10 +8,10 @@ namespace RPG_Combat___Inventory_System
 {
     internal class Archer:Character
     {
-        public override void SetSpecialAttack()
+        public override decimal SetSpecialAttack()
         {
             Console.WriteLine("Archer Special Attack: Arrow Rain ");
-            AttackPower *= 7;
+            return AttackPower * 7;
         }
         public Archer(String Name, decimal Health, decimal AttackPower, decimal Defense)
           : base(Name, Health, AttackPower, Defense)

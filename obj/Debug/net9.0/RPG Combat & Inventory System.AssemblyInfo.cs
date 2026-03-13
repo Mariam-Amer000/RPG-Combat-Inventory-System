@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPG Combat & Inventory System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4335cd0c27875d033861f895e4bf8c7cd85863a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+215f2eef19dcd5b3fbaef70ae45af0756445769e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RPG Combat & Inventory System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPG Combat & Inventory System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
