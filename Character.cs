@@ -12,8 +12,8 @@ namespace RPG_Combat___Inventory_System
         public decimal Health { get; protected set; }
         public decimal AttackPower { get; protected set; }
         public decimal Defense { get; protected set; }
-        // public Inventory SelfInventory;
-       
+        public Inventory MyInventory { get; protected set; }
+
         public void Heal(decimal Health)
         {
             this.Health += Health;
@@ -33,10 +33,16 @@ namespace RPG_Combat___Inventory_System
             this.Health -= damageAfterDefense;
         }
 
-        //public void UseItem(int index)
-        //{
-
-        //}
+        public void UseItem(int index)
+        {
+            Item item = MyInventory.GetItem(index);
+            if (item != null)
+            {
+                item.Use(this); 
+                MyInventory.RemoveItem(index);
+                Console.WriteLine($"{Name} used {item.GetType().Name}!");
+            }
+        }
 
         public abstract void SetSpecialAttack();
 
@@ -47,6 +53,7 @@ namespace RPG_Combat___Inventory_System
             Health = 0;
             AttackPower = 0;
             Defense = 0;
+            MyInventory = new Inventory();
         }
        public Character(String Name,decimal Health,decimal AttackPower,decimal Defense)
         {
@@ -54,6 +61,7 @@ namespace RPG_Combat___Inventory_System
             this.Health = Health;
             this.AttackPower = AttackPower;
             this.Defense = Defense;
+            MyInventory = new Inventory();
         }
     }
 }
